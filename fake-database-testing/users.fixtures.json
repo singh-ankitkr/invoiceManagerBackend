@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1111111",
+        "name": "Tarzan",
+        "email": "tarzan@jungle.com",
+        "password": "123456",
+        "companyDetails": {
+            "name": "Acme Inc",
+            "address": "1st Bulevard Street",
+            "vatNumber": "1234",
+            "regNumber": "9876"
+        }
+    }
+]
