@@ -1,0 +1,108 @@
+[
+    {
+        "id": "111",
+        "name": "John Doe 1",
+        "email": "fake_user1@officehourtesting.com",
+        "password": "123456",
+        "companyDetails": {
+            "name": "Skynet 01",
+            "address": "1st Bulevard Street",
+            "vatNumber": "1234",
+            "regNumber": "9876"
+        }
+    },
+    {
+        "user_id": "222",
+        "email": "stefan@test.com",
+        "name": "Stefan",
+        "companyDetails": {
+            "name": "Acme",
+            "address": "Home",
+            "vatNumber": "123456",
+            "regNumber": "123456",
+            "iban": "8y7dasyfhasn",
+            "swift": "lkjdsauf7898"
+        },
+        "id": "1644502347235"
+    },
+    {
+        "id": "555",
+        "name": "Busy User",
+        "email": "fake_user5@officehourtesting.com",
+        "password": "123456",
+        "companyDetails": {
+            "name": "Ankit Company",
+            "address": "Address of the company",
+            "vatNumber": "xyz8764",
+            "regNumber": "pin9876",
+            "iban": "uiba876",
+            "swift": "notswiftslow"
+        }
+    },
+    {
+        "name": "ankit",
+        "email": "ankitks.itbhu@gmail.com",
+        "password": "password",
+        "id": "5f984e17-4d9d-4fa7-8245-368cb15f6b1a",
+        "companyDetails": {
+            "name": "Ankit Compan",
+            "address": "asdf addres",
+            "vatNumber": "vat123",
+            "regNumber": "pin987",
+            "iban": "uiba87",
+            "swift": "swift12"
+        }
+    },
+    {
+        "name": "ankit",
+        "email": "fake_user_10@gmail.com",
+        "password": "password",
+        "id": "92df504b-f8dc-4b20-8e86-233b9d56f1fa"
+    },
+    {
+        "name": "ankit",
+        "email": "fake@gmail.com",
+        "password": "password",
+        "id": "3eca4f84-0ce0-48bf-aa4f-e3520996abe0"
+    },
+    {
+        "name": "ankit",
+        "email": "faks@gmail.com",
+        "password": "password",
+        "id": "c6d87f9f-7eb6-4526-9212-11e2eebbffb1"
+    },
+    {
+        "name": "psing",
+        "email": "ps@gmail.com",
+        "password": "password",
+        "id": "f2cb3f60-80e4-415e-a348-1deef1b6307d",
+        "companyDetails": {
+            "name": "ps company",
+            "address": "ps address",
+            "vatNumber": "vadr3",
+            "regNumber": "adsfaf3",
+            "iban": "asdfaf3",
+            "swift": "asdf"
+        }
+    },
+    {
+        "name": "Ankita Priya",
+        "email": "ankitapriya@18email.com",
+        "password": "crossword",
+        "id": "d44913c7-c183-412d-84a4-37d3c142858d",
+        "companyDetails": {
+            "name": "1234",
+            "address": "5678",
+            "vatNumber": "vat1234",
+            "regNumber": "1992",
+            "iban": "1987",
+            "swift": "2018"
+        }
+    },
+    {
+        "name": "asingh",
+        "email": "asingh@office.com",
+        "password": "password",
+        "id": "cfd297b0-d56f-4b03-9325-983f16438a7b"
+    }
+]

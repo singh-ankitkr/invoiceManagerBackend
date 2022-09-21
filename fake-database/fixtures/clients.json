@@ -1,0 +1,101 @@
+[
+    {
+        "user_id": "111",
+        "email": "newUser@test.com",
+        "name": "John",
+        "companyDetails": {
+            "name": "Apple",
+            "vatNumber": "123",
+            "regNumber": "123",
+            "address": "Cupertino"
+        },
+        "id": "1644482450322"
+    },
+    {
+        "user_id": "111",
+        "email": "newUser2@test.com",
+        "name": "John",
+        "companyDetails": {
+            "name": "Skynet 2",
+            "vatNumber": "1234",
+            "regNumber": "1234",
+            "address": "Home"
+        },
+        "id": "1644482524339"
+    },
+    {
+        "user_id": "111",
+        "email": "alice@test.com",
+        "name": "Alice",
+        "companyDetails": {
+            "name": "Wonderland",
+            "vatNumber": "12345",
+            "regNumber": "12345",
+            "address": "Home"
+        },
+        "id": "1644482579284"
+    },
+    {
+        "user_id": "222",
+        "email": "bob@test.com",
+        "name": "Bob Porter",
+        "companyDetails": {
+            "name": "Wonderland",
+            "vatNumber": "12345",
+            "regNumber": "12345",
+            "address": "Home"
+        },
+        "id": "1644482648082"
+    },
+    {
+        "user_id": "222",
+        "email": "stefan@test.com",
+        "name": "Stefan",
+        "companyDetails": {
+            "name": "Acme",
+            "vatNumber": "123456",
+            "regNumber": "123456",
+            "address": "Home"
+        },
+        "id": "1644502347235"
+    },
+    {
+        "user_id": "555",
+        "email": "apple@test.com",
+        "name": "Tim Cook",
+        "companyDetails": {
+            "name": "Apple",
+            "vatNumber": "AP1321323",
+            "regNumber": "AP1312342142123",
+            "address": "Cupertino"
+        },
+        "id": "ap123456"
+    },
+    {
+        "user_id": "555",
+        "email": "microsoft@test.com",
+        "name": "Satya Nadella",
+        "companyDetails": {
+            "name": "Microsoft",
+            "vatNumber": "MS1321323",
+            "regNumber": "MS1312342142123",
+            "address": "Cupertino"
+        },
+        "id": "ms123456"
+    },
+    {
+        "user_id": "222",
+        "email": "hobbs@sandman.com",
+        "name": "Hobbs Sandamn",
+        "companyDetails": {
+            "name": "Dreamland Inc",
+            "address": "Dreamworld",
+            "vatNumber": "12319312",
+            "regNumber": "312421421",
+            "iban": "fu8da9fa",
+            "swift": "d7sa980a"
+        },
+        "createdAt": 1660061926790,
+        "id": "042e7793-df85-4bf5-966e-b986bf444492"
+    }
+]

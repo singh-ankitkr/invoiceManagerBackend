@@ -1,0 +1,202 @@
+[
+    {
+        "user_id": "111",
+        "email": "newUser@test.com",
+        "name": "John",
+        "companyDetails": {
+            "name": "Apple",
+            "vatNumber": "123",
+            "regNumber": "123",
+            "address": "Cupertino"
+        },
+        "id": "1644482450322"
+    },
+    {
+        "user_id": "111",
+        "email": "newUser2@test.com",
+        "name": "John",
+        "companyDetails": {
+            "name": "Skynet 2",
+            "vatNumber": "1234",
+            "regNumber": "1234",
+            "address": "Home"
+        },
+        "id": "1644482524339"
+    },
+    {
+        "user_id": "111",
+        "email": "alice@test.com",
+        "name": "Alice",
+        "companyDetails": {
+            "name": "Wonderland",
+            "vatNumber": "12345",
+            "regNumber": "12345",
+            "address": "Home"
+        },
+        "id": "1644482579284"
+    },
+    {
+        "user_id": "222",
+        "email": "bob@test.com",
+        "name": "Bob Porter",
+        "companyDetails": {
+            "name": "Wonderland",
+            "vatNumber": "12345",
+            "regNumber": "12345",
+            "address": "Home"
+        },
+        "id": "1644482648082"
+    },
+    {
+        "user_id": "222",
+        "email": "stefan@test.com",
+        "name": "Stefan",
+        "companyDetails": {
+            "name": "Acme",
+            "vatNumber": "123456",
+            "regNumber": "123456",
+            "address": "Home"
+        },
+        "id": "1644502347235"
+    },
+    {
+        "user_id": "555",
+        "email": "apple@test.com",
+        "name": "psing",
+        "companyDetails": {
+            "name": "Apple",
+            "vatNumber": "AP1321323",
+            "regNumber": "AP1312342142123",
+            "address": "Cupertino",
+            "swift": "notswiftslow",
+            "iban": "ban1234"
+        },
+        "id": "ap123456"
+    },
+    {
+        "user_id": "555",
+        "email": "microsoft@test.com",
+        "name": "Satya Nadella",
+        "companyDetails": {
+            "name": "Microsoft",
+            "vatNumber": "MS1321323",
+            "regNumber": "MS1312342142123",
+            "address": "Cupertino"
+        },
+        "id": "ms123456"
+    },
+    {
+        "user_id": "222",
+        "email": "hobbs@sandman.com",
+        "name": "Hobbs Sandamn",
+        "companyDetails": {
+            "name": "Dreamland Inc",
+            "address": "Dreamworld",
+            "vatNumber": "12319312",
+            "regNumber": "312421421",
+            "iban": "fu8da9fa",
+            "swift": "d7sa980a"
+        },
+        "createdAt": 1660061926790,
+        "id": "042e7793-df85-4bf5-966e-b986bf444492"
+    },
+    {
+        "user_id": "555",
+        "email": "client1@gmail.com",
+        "name": "client1",
+        "companyDetails": {
+            "name": "client1 company",
+            "vatNumber": "client1 vat",
+            "regNumber": "client1 reg no",
+            "address": "client1 company address"
+        },
+        "createdAt": 1662576910851,
+        "id": "95d5de91-2d3a-4ce5-b613-ebcca2ab210a"
+    },
+    {
+        "user_id": "f2cb3f60-80e4-415e-a348-1deef1b6307d",
+        "email": "aclient1@gmail.com",
+        "name": "A Client1",
+        "companyDetails": {
+            "name": "A Client1 Company1",
+            "vatNumber": "A company1 swift",
+            "regNumber": "A Company1 Registration",
+            "address": "A Company1 Address",
+            "swift": "swift1234",
+            "iban": "uiba876"
+        },
+        "createdAt": 1662621274447,
+        "id": "3e14be2f-5e4c-4e56-8c42-198adb934f10"
+    },
+    {
+        "user_id": "f2cb3f60-80e4-415e-a348-1deef1b6307d",
+        "email": "aclient2@gmail.com",
+        "name": "A Client2",
+        "companyDetails": {
+            "name": "A Client2 Company",
+            "vatNumber": "A client2 vat",
+            "regNumber": "A client2 reg",
+            "address": "A Client2 Address"
+        },
+        "createdAt": 1662621423761,
+        "id": "f3aeb6fa-3859-4620-a21d-9ab132afaf32"
+    },
+    {
+        "user_id": "f2cb3f60-80e4-415e-a348-1deef1b6307d",
+        "email": "aclient3@gmail.com",
+        "name": "A Client3",
+        "companyDetails": {
+            "name": "A Client3 Company",
+            "vatNumber": "A client3 vat",
+            "regNumber": "A client3 reg",
+            "address": "A client3 address"
+        },
+        "createdAt": 1662622602892,
+        "id": "1eeed244-0ae3-4761-813a-a6b4eb3300fa"
+    },
+    {
+        "user_id": "f2cb3f60-80e4-415e-a348-1deef1b6307d",
+        "email": "aclient4@gmail.com",
+        "name": "A client4",
+        "companyDetails": {
+            "name": "A Client4 Company",
+            "vatNumber": "A client4 vat",
+            "regNumber": "A client4 reg",
+            "address": "A client4 address",
+            "swift": "A client4 swift",
+            "iban": "A client4 iban"
+        },
+        "createdAt": 1662633549968,
+        "id": "cc552bd4-2afb-40fd-ac89-1b12a66e0f71"
+    },
+    {
+        "user_id": "555",
+        "email": "hanuman@gmail.com",
+        "name": "Hanuman Ji",
+        "companyDetails": {
+            "name": "Dasrath & Sons",
+            "vatNumber": "LADDOO",
+            "regNumber": "RAM001",
+            "address": "Ayodhya",
+            "swift": "PAWANPUTRA",
+            "iban": "BANRAVAN"
+        },
+        "createdAt": 1663509293025,
+        "id": "c8e88698-33a3-4e80-a59f-1ef2dc9ed9db"
+    },
+    {
+        "user_id": "555",
+        "email": "bhajji@india.com",
+        "name": "Bhajji Paji",
+        "companyDetails": {
+            "name": "Harbhajan & Sons",
+            "vatNumber": "VatVajji",
+            "regNumber": "Bhajji",
+            "address": "Bhilwara",
+            "swift": "BhjajjiSwift",
+            "iban": "BhajjiBan"
+        },
+        "createdAt": 1663616038847,
+        "id": "77d72488-068e-477f-8dbf-4d1221a16d58"
+    }
+]

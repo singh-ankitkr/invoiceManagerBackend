@@ -1,0 +1,42 @@
+[
+    {
+        "id": "111",
+        "name": "John Doe 1",
+        "email": "fake_user1@officehourtesting.com",
+        "password": "123456",
+        "companyDetails": {
+            "name": "Skynet 01",
+            "address": "1st Bulevard Street",
+            "vatNumber": "1234",
+            "regNumber": "9876"
+        }
+    },
+    {
+        "user_id": "222",
+        "email": "stefan@test.com",
+        "name": "Stefan",
+        "companyDetails": {
+            "name": "Acme",
+            "address": "Home",
+            "vatNumber": "123456",
+            "regNumber": "123456",
+            "iban": "8y7dasyfhasn",
+            "swift": "lkjdsauf7898"
+        },
+        "id": "1644502347235"
+    },
+    {
+        "id": "555",
+        "name": "Busy User",
+        "email": "fake_user5@officehourtesting.com",
+        "password": "123456",
+        "companyDetails": {
+            "name": "Toptal",
+            "address": "1st Bulevard Street",
+            "vatNumber": "1234",
+            "regNumber": "9876",
+            "iban": "DE89370400440532313000",
+            "swift": "CTCBIDJASBY"
+        }
+    }
+]
